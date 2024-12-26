@@ -1,6 +1,6 @@
 this is an open source artaficia lintelligence where you can modify it to
 
-to modify theres the python library module
+to modify theres the python library module: 
 pyqt5
 datetime
 webbrowser

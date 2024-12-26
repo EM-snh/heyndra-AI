@@ -7,3 +7,5 @@ webbrowser
 socket
 
 so this chatbot is sign in and log in less. so i use socket module to show your computer name as the user of this chatbot. im sorry about that
+
+updates:
